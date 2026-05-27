@@ -1,0 +1,12 @@
+# XAMPP / local environment
+*.log
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Optional local config override
+config.local.php
