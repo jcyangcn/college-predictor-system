@@ -83,3 +83,7 @@ This project is maintained as a portfolio fork. Please refer to the original rep
 ## Troubleshooting
 
 If login fails, confirm MySQL is running in XAMPP and that `config.php` matches your database credentials.
+
+## Contributing
+
+Pull requests and documentation improvements are welcome.
