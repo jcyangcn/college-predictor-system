@@ -79,3 +79,7 @@ Originally based on [rishim9816/Web-Development-Project](https://github.com/rish
 ## License
 
 This project is maintained as a portfolio fork. Please refer to the original repository for authorship details.
+
+## Troubleshooting
+
+If login fails, confirm MySQL is running in XAMPP and that `config.php` matches your database credentials.
